@@ -1,0 +1,1 @@
+{"ForceUpdateGame":false,"LatestGameVersion":"0.1.0","InternalGameVersion":0,"InternalResourceVersion":2103271956,"UpdatePrefixUri":"https://longshilin.com/TanksRes/master/0_1_0_2103271956/IOS","VersionListLength":7300,"VersionListHashCode":1484562584,"VersionListZipLength":3589,"VersionListZipHashCode":1229294820}
