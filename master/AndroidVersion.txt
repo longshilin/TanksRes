@@ -1,0 +1,1 @@
+{"ForceUpdateGame":false,"LatestGameVersion":"0.1.0","InternalGameVersion":0,"InternalResourceVersion":2103272016,"UpdatePrefixUri":"https://longshilin.com/TanksRes/master/0_1_0_2103272016/Android","VersionListLength":7300,"VersionListHashCode":-1161099344,"VersionListZipLength":3617,"VersionListZipHashCode":1269954594}
